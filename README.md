@@ -17,7 +17,7 @@ The lockdowns in Wuhan and Shanghai represent significant turning points in Chin
 ## Visualization:
 We've developed an interactive visualization website for this study which can be accessed [here](https://zhihangliu.cn/projects/Covid_fatigue/index.html).
 
-![Website Preview](Spatialtemporal dynamic visualization of public negative sentiment.gif)
+![Website Preview](website.gif)
 
 
 ## Note:
