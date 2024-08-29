@@ -1,5 +1,4 @@
-# Shifting sentiments: analyzing public reaction to COVID-19 containment policies in Wuhan and Shanghai through Weibo data [here](https://www.nature.com/articles/s41599-024-03592-3)
-
+# Shifting sentiments: analyzing public reaction to COVID-19 containment policies in Wuhan and Shanghai through Weibo data
 
 ## Introduction:
 This repository contains the code and intermediary data related to our paper titled **"Shifting sentiments: analyzing public reaction to COVID-19 containment policies in Wuhan and Shanghai through Weibo data"**. You can access the paper [here]([Manuscript/Manuscript.pdf](https://www.nature.com/articles/s41599-024-03592-3)).
